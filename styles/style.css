@@ -78,3 +78,23 @@ recordarte cómo configurar los estilos de los elementos*/
   margin-right: 0;
   margin-top: 80px;
 }
+
+.description {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 80px;
+  flex-direction: column;
+}
+
+.descripction__title {
+  width: 175px;
+  flex-direction: row;
+}
+
+.descripction__paragraph {
+  width: 80%;
+  min-width: 784px;
+  gap: 30px;
+  text-align: right;
+}

@@ -1,18 +1,6 @@
-Título: 
+Bloque de descripción:
 
-Aprender a aprender
-
-Subtítulo: 
-
-Las técnicas de aprendizaje más eficaces y avanzadas que puedes aplicar en tu vida diaria
-
-Más información
-
----
-
-Bloque de descripción: 
-
-El principal problema de la educación
+<!-- El principal problema de la educación -->
 
 Ya sea en la escuela o en la universidad, lo único que nadie te enseña es a enseñarte a ti mismo. Muchas veces acabamos haciendo ejercicios específicos y memorizando información sin pensar, para que cuando llegue la hora del examen, aprobemos la prueba. Pero una vez terminada la prueba, esa información ya no tiene utilidad, y no hay garantía de que se conserve. Al final, solo estamos aprendiendo a pasar las pruebas.
 
